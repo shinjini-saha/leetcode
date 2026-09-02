@@ -1,0 +1,11 @@
+node_modules
+.venv
+venv
+.vscode
+__pycache__
+test.dSYM
+.DS_Store
+
+# specific files
+**/*_test_data.*
+**/*_test_data_*.*

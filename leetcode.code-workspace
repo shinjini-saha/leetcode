@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.quickSuggestions": {
+			"other": "off",
+			"comments": "off",
+			"strings": "off"
+		},
+		"chat.disableAIFeatures": true,
+		"editor.inlineSuggest.enabled": false,
+	}
+}
