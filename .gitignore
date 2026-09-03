@@ -1,7 +1,6 @@
 node_modules
 .venv
 venv
-.vscode
 __pycache__
 test.dSYM
 .DS_Store
